@@ -1,6 +1,5 @@
 # 🌐 **語言切換｜Language Switch**
-[點此切換至中文版本](#自我介紹)  
-[Click here to switch to English version](#Self-Introduction)
+[點此切換至中文版本](#自我介紹)  [Click here to switch to English version](#self-Introduction)
 
 # 🌟 自我介紹
 大家好，我是淡江大學人工智慧學系四年級的學生，也是該系第一屆的學子。過去四年來，我積極探索並學習人工智慧的各個領域，累積了豐富的理論與實務經驗。我熱愛專研問題、解決挑戰，也喜歡將所學應用於實際專案。
@@ -17,18 +16,28 @@
 
 # 📚 修習課程亮點
 ## 最佳 AI 專業課程:
-- **自然語言處理:** 99 分
-- **人工智慧應用實驗(三):** 99 分
-- **演算法:** 99 分
-- **線性代數:** 98分
-- **人工智慧概論:** 96分
+- **人工智慧應用實驗(一):** 99
+- **人工智慧應用實驗(二):** 98
+- **人工智慧應用實驗(三):** 99
+- **自然語言處理:** 99
+- **演算法:** 99
+- **線性代數:** 98
+- **人工智慧概論:** 96
+- **機器學習(一):** 96
+- **機器學習(二):** 94
+- **深度學習:** 95
 
 ## AI 應用課程:
-- **人工智慧產業趨勢:** 100 分
-- **智慧商務:** 97 分
-- **商務應用:** 96 分
+- **人工智慧產業趨勢:** 100
+- **影像處理:** 92
+- **物聯網:** 97
+- **智慧商務:** 97
+- **商務應用:** 96
+- **數據分析:** 94
+- **智慧水資源管理概論:** 93
 
 # 🌱 正在學習的內容
+目前我正在學習以下課程，期望能進一步提升我的專業技能：
 - 資通安全管理概論
 - 進階深度學習技術
 - 嵌入式系統設計實務
@@ -46,23 +55,19 @@
 2024 年「GenAI Stars」生成式 AI 百工百業應用選拔【創意創客組】企業挑戰獎 (愛爾達科技-優選)
 
 # 🌍 興趣與專長
-- **專業技能**: 游泳、腳踏車、普通重型機車、普通小型車
-- **興趣愛好**: 音樂、打球、閱讀、爬山、寫作、跑步、彈吉他
+- **專業技能:** 游泳、腳踏車、普通重型機車、普通小型車
+- **興趣愛好:** 音樂、打球、閱讀、爬山、寫作、跑步、彈吉他
 
 # 💬 如果你對人工智慧應用領域或跨界合作有興趣，又或是想要找人聊聊人工智慧相關議題，歡迎聯繫我！
 
-
-
-
 ---
+
 ---
 <!-- 填寫您的個人資訊
 😄 姓名: [您的姓名]
 📫 聯絡資訊: [您的聯絡資訊]
 🔭 參考資料: [您的參考資料]
 -->
-
-
 
 # 🌟 Self Introduction
 Hello, I am a senior student in the Department of Artificial Intelligence at Tamkang University and a member of the first cohort. Over the past four years, I have actively explored and studied various fields of artificial intelligence, accumulating rich theoretical and practical experience. I love researching problems, solving challenges, and applying what I have learned to real projects.
@@ -79,18 +84,28 @@ Hello, I am a senior student in the Department of Artificial Intelligence at Tam
 
 # 📚 Course Highlights
 ## Best AI Major Courses:
-- **Natural Language Processing:** 99
+- **Artificial Intelligence Application Experiment I:** 99
+- **Artificial Intelligence Application Experiment II:** 98
 - **Artificial Intelligence Application Experiment III:** 99
+- **Natural Language Processing:** 99
 - **Algorithms:** 99
 - **Linear Algebra:** 98
 - **Introduction to Artificial Intelligence:** 96
+- **Machine Learning I:** 96
+- **Machine Learning II:** 94
+- **Deep Learning:** 95
 
 ## Best AI Application Courses:
 - **Trends in AI Industry:** 100
+- **Image Processing:** 92
+- **Internet of Things:** 97
 - **Intelligent Commerce:** 97
 - **Business Applications:** 96
+- **Data Analysis:** 94
+- **Introduction to Smart Water Resource Management:** 93
 
 # 🌱 Currently Learning
+Currently, I am learning the following courses to further enhance my skills:
 - Introduction to Information Security Management
 - Advanced Deep Learning Techniques
 - Practical Embedded Systems Design
@@ -120,7 +135,6 @@ My research interests include natural language processing, image processing, mac
 📫 Contact Info: [Your Contact Info]
 🔭 References: [Your References]
 -->
-
 
 
 <!--
