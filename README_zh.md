@@ -1,5 +1,5 @@
 # 🌐 **語言切換**
-[點此切換至中文版本](README_zh.md)  [Click here to switch to English version](README.md)
+[點此切換至中文版本](https://github.com/AIfoodie/AIfoodie/blob/main/README_zh.md)  [Click here to switch to English version](https://github.com/AIfoodie/AIfoodie/blob/main/README.md)
 
 # 🌟 自我介紹
 大家好，我是淡江大學人工智慧學系四年級的學生，也是該系第一屆的學子。過去四年來，我積極探索並學習人工智慧的各個領域，累積了豐富的理論與實務經驗。我熱愛專研問題、解決挑戰，也喜歡將所學應用於實際專案。
