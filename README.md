@@ -1,5 +1,5 @@
 # 🌐 **Language Switch**
-[點此切換至中文版本](#README_zh.md)  [Click here to switch to English version](README.md)
+[點此切換至中文版本](https://github.com/AIfoodie/AIfoodie/edit/main/README_zh.md)  [Click here to switch to English version](https://github.com/AIfoodie/AIfoodie/edit/main/README.md)
 
 # 🌟 Self Introduction
 Hello, I am a senior student in the Department of Artificial Intelligence at Tamkang University and a member of the first cohort. Over the past four years, I have actively explored and studied various fields of artificial intelligence, accumulating rich theoretical and practical experience. I love researching problems, solving challenges, and applying what I have learned to real projects.
@@ -60,9 +60,11 @@ My research interests include natural language processing, image processing, mac
 
 # 💬 If you are interested in the field of artificial intelligence applications or cross-disciplinary collaboration, or just want to chat about AI-related topics, feel free to reach out! 
 
+
+<!-- 
 ---
 ---
-<!-- Fill in your personal information
+Fill in your personal information
 😄 Name: [Your Name]
 📫 Contact Info: [Your Contact Info]
 🔭 References: [Your References]
