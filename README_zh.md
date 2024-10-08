@@ -68,5 +68,3 @@
 📫 聯絡資訊: [您的聯絡資訊]
 🔭 參考資料: [您的參考資料]
 -->
-![image](https://github.com/user-attachments/assets/c984f4e7-bf46-47db-a34d-89d7faaea18a)
-
